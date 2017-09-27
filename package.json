@@ -4,6 +4,8 @@
   "description": "testing",
   "main": "index.js",
   "scripts": {
+    "build": "webpack",
+    "start": "webpack ./src/index.js ./public/bundle.js",
     "test": "test study"
   },
   "repository": {
@@ -19,5 +21,11 @@
   "bugs": {
     "url": "https://github.com/Barkarula/testReact/issues"
   },
-  "homepage": "https://github.com/Barkarula/testReact#readme"
+  "homepage": "https://github.com/Barkarula/testReact#readme",
+  "dependencies": {
+    "jquery": "^3.2.1"
+  },
+  "devDependencies": {
+    "webpack": "^3.6.0"
+  }
 }
