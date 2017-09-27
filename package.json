@@ -1,0 +1,23 @@
+{
+  "name": "testformyself",
+  "version": "1.0.0",
+  "description": "testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "test study"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Barkarula/testReact.git"
+  },
+  "keywords": [
+    "study",
+    "test"
+  ],
+  "author": "barcarula",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Barkarula/testReact/issues"
+  },
+  "homepage": "https://github.com/Barkarula/testReact#readme"
+}
